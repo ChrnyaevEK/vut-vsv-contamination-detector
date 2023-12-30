@@ -1,0 +1,10 @@
+Pillow
+ipykernel
+ipywidgets
+ipympl
+numpy
+matplotlib
+scikit-image
+opencv-python
+tensorflow
+imgaug
